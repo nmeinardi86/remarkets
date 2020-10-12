@@ -24,10 +24,7 @@ args = parser.parse_args()
 ticker = args.T
 user = args.U
 password = args.P
-# print("script", script)
-print ("ticker: ", ticker)
-#print ("user: ", user)
-#print (password)
+
 
 try:
 
